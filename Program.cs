@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using nic
+using niczego nie bedzie
 
 namespace delegaty
 {
