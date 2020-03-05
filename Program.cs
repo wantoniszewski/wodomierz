@@ -71,6 +71,7 @@ namespace delegaty
                 item("test");
             }
             Console.WriteLine("-----==polcooomm==----");
+                        Console.WriteLine("-----==polcooomm==----");
         }
     }
 }
