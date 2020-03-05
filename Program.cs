@@ -65,7 +65,7 @@ namespace delegaty
             }
             );
             Console.WriteLine("-----====----");
-
+            Console.WriteLine("-----==wspa==----");
             foreach (var item in lista1)
             {
                 item("test");
