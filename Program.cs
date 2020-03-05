@@ -64,15 +64,13 @@ namespace delegaty
                 Console.WriteLine($"wywyłanie \"Lambda1\", z parametrem: {w}");
             }
             );
-            Console.WriteLine("-----====----");
-            Console.WriteLine("-----==wspa==----");
-                        Console.WriteLine("-----==wspa==----");
+            Console.WriteLine("-----==taktak==----");
+
             foreach (var item in lista1)
             {
                 item("test");
             }
-            Console.WriteLine("-----==polcooomm==----");
-                        Console.WriteLine("-----==polcooomm==----");
+
         }
     }
 }
