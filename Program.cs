@@ -64,7 +64,7 @@ namespace delegaty
                 Console.WriteLine($"wywyłanie \"Lambda1\", z parametrem: {w}");
             }
             );
-            Console.WriteLine("-----==taktak==----");
+            Console.WriteLine("-----==byłottjestnic==----");
 
             foreach (var item in lista1)
             {
