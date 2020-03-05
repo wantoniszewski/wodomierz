@@ -70,7 +70,7 @@ namespace delegaty
             {
                 item("test");
             }
-
+            Console.WriteLine("-----==polcmm==----");
         }
     }
 }
