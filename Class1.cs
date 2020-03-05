@@ -9,7 +9,7 @@ namespace wodomierz
         public void klasaKtoraMoznaUsunac()
         {
             Console.WriteLine("hej Marcin");
-            global::System.Console.WriteLine("marcin_strona");
+            global::System.Console.WriteLine("marcin_strona_i koniec");
         }
     }
 }
