@@ -9,7 +9,7 @@ namespace wodomierz
     static class Program
     {
         /// <summary>
-        ///  The main entry point for the application.
+        ///  Marcin.
         /// </summary>
         [STAThread]
         static void Main()
