@@ -53,6 +53,9 @@ namespace wodomierz
             {
                 pWynikLogowania.Text = "zalogowano";
                 MessageBox.Show("jesteś zalogowany");
+                this.Hide();
+                Form1 form = new Form1();
+                form.ShowDialog();
                 //dzialanie();
             }
 
