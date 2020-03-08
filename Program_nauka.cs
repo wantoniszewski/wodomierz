@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using niczego nie bedzie
 
 namespace delegaty
 {
@@ -26,7 +25,7 @@ namespace delegaty
         {
             return $"{a}-----{b}";
         }
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
 
             List<Func<int, string, string>> lista = new List<Func<int, string, string>>();
@@ -56,7 +55,7 @@ namespace delegaty
             zmienna1 += p.Metoda2;
             zmienna1("test");
 
-            List<TypDelegata1> lista1 = new list<TypDelegata1>();
+            List<TypDelegata1> lista1 = new List<TypDelegata1>();
             lista1.Add(Metoda1);
             lista1.Add(p.Metoda2);
             lista1.Add(w =>

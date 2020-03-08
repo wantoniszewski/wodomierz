@@ -6,10 +6,9 @@ namespace wodomierz
 {
     class Class1
     {
-        public void klasaKtoraMoznaUsunac()
+        public void metodaKtoraMoznaUsunac()
         {
-            Console.WriteLine("hej Marcin");
-            global::System.Console.WriteLine("marcin_strona_i koniec");
+
         }
     }
 }

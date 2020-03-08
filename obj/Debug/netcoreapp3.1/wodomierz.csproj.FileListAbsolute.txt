@@ -1,0 +1,11 @@
+C:\Users\mc\Documents\GitHub\wodomierz\obj\Debug\netcoreapp3.1\wodomierz.csprojAssemblyReference.cache
+C:\Users\mc\Documents\GitHub\wodomierz\obj\Debug\netcoreapp3.1\wodomierz.AssemblyInfoInputs.cache
+C:\Users\mc\Documents\GitHub\wodomierz\obj\Debug\netcoreapp3.1\wodomierz.AssemblyInfo.cs
+C:\Users\mc\Documents\GitHub\wodomierz\bin\Debug\netcoreapp3.1\wodomierz.exe
+C:\Users\mc\Documents\GitHub\wodomierz\bin\Debug\netcoreapp3.1\wodomierz.deps.json
+C:\Users\mc\Documents\GitHub\wodomierz\bin\Debug\netcoreapp3.1\wodomierz.runtimeconfig.json
+C:\Users\mc\Documents\GitHub\wodomierz\bin\Debug\netcoreapp3.1\wodomierz.runtimeconfig.dev.json
+C:\Users\mc\Documents\GitHub\wodomierz\bin\Debug\netcoreapp3.1\wodomierz.dll
+C:\Users\mc\Documents\GitHub\wodomierz\bin\Debug\netcoreapp3.1\wodomierz.pdb
+C:\Users\mc\Documents\GitHub\wodomierz\obj\Debug\netcoreapp3.1\wodomierz.dll
+C:\Users\mc\Documents\GitHub\wodomierz\obj\Debug\netcoreapp3.1\wodomierz.pdb
