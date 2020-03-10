@@ -15,6 +15,7 @@ namespace wodomierz
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -53,10 +54,13 @@ namespace wodomierz
             {
                 pWynikLogowania.Text = "zalogowano";
                 MessageBox.Show("jesteś zalogowany");
-                this.Hide();
-                Form1 form = new Form1();
-                form.ShowDialog();
+                haslo.Hide();
+                textBox1.Hide();
+                pLogin.Hide();
+                pHaslo.Hide();
+                button1.Hide();
                 //dzialanie();
+                
             }
 
             //throw new NotImplementedException();
@@ -65,6 +69,16 @@ namespace wodomierz
         private void label1_Click_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            button1.Show();
         }
     }
 }
