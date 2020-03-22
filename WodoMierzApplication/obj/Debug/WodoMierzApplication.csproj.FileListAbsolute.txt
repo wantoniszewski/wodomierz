@@ -1,0 +1,14 @@
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\bin\Debug\WodoMierzApplication.exe.config
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\bin\Debug\WodoMierzApplication.exe
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\bin\Debug\WodoMierzApplication.pdb
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication.csprojAssemblyReference.cache
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\App.g.cs
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication_MarkupCompile.cache
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication_MarkupCompile.lref
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\MainWindow.baml
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication.g.resources
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication.Properties.Resources.resources
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication.csproj.GenerateResource.cache
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication.exe
+C:\Users\Witek\RiderProjects\WodoMierzApplication\WodoMierzApplication\obj\Debug\WodoMierzApplication.pdb
